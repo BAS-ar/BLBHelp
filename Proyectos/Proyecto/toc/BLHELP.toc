@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map type="toc">
+<title></title>
+<book navtitle="Manual del Usuario" format="html" processing-role="normal">
+  <page href="../contents/BLBHTML/bienvenidos.htm" format="html" processing-role="normal"></page>
+</book>
+<book navtitle="Generalidades" format="html" processing-role="normal">
+  <page href="../contents/BLBHTML/campos_obligatorios.htm" format="html" processing-role="normal"></page>
+  <page navtitle="Cómo definir los permisos de seguridad" href="../contents/BLBHTML/definir_seguridad.htm" format="html" processing-role="normal"></page>
+  <book navtitle="Barra de Menúes" format="html" processing-role="normal">
+    <book navtitle="Base de Datos" format="html" processing-role="normal">
+      <page href="../contents/BLBHTML/abrir.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/BLBHTML/cambio_de_empresa.htm" format="html" processing-role="normal"></page>
+    </book>
+    <book navtitle="Herramientas" format="html" processing-role="normal">
+      <page href="../contents/BLBHTML/personalizar.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Mis Reportes" href="../contents/BLBHTML/mis_Reportes.htm" format="html" processing-role="normal"></page>
+    </book>
+    <book navtitle="¿?" format="html" processing-role="normal">
+      <page navtitle="Acerca de" href="../contents/BLBHTML/acerca_de.htm" format="html" processing-role="normal"></page>
+    </book>
+  </book>
+</book>
+<book navtitle="Novedades" format="html" processing-role="normal">
+  <page href="../contents/BLBHTML/administrador_de_Novedades.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/administrador_de_Solicitud_de_Novedades.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/modificacion_de_vacaciones.htm" format="html" processing-role="normal"></page>
+  <book navtitle="De Liquidación" format="html" processing-role="normal">
+    <page href="../contents/BLBHTML/de_liquidacion_por_legajo.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/de_liquidacion_por_concepto.htm" format="html" processing-role="normal"></page>
+    <page navtitle="De liquidación por convenio" href="../contents/BLBHTML/de_liquidacion_por_Convenio.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/de_licencias_y_vacaciones.htm" format="html" processing-role="normal"></page>
+    <page navtitle="De suspensión por legajo" href="../contents/BLBHTML/de_suspension_por_legajo.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/de_suspension_por_concepto.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/importacion_desde_reloj.htm" format="html" processing-role="normal"></page>
+  </book>
+  <book navtitle="De Personal" format="html" processing-role="normal">
+    <page href="../contents/BLBHTML/de_personal_por_legajo.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/de_personal_por_suceso.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/de_Personal_Eventual.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/de_notificaciones.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/de_rotacion_de_personal.htm" format="html" processing-role="normal"></page>
+  </book>
+  <book navtitle="Históricos" format="html" processing-role="normal">
+    <page href="../contents/BLBHTML/valores_iniciales_de_acumuladores.htm" format="html" processing-role="normal"></page>
+    <page navtitle="Carga de valores registrables" href="../contents/BLBHTML/carga_de_valores_historicos.htm" format="html" processing-role="normal"></page>
+  </book>
+  <book navtitle="Informes" format="html" processing-role="normal">
+    <page href="../contents/BLBHTML/inf__de_novedades_de_liquidacion.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/inf__de_novedades_de_personal.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/de_Vacaciones.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/inf__de_notificaciones.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/analisis_de_topes_de_licencia.htm" format="html" processing-role="normal"></page>
+  </book>
+</book>
+<book navtitle="Legajos" format="html" processing-role="normal">
+  <page href="../contents/BLBHTML/legajos.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/personas.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/familiares.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/personal_Eventual.htm" format="html" processing-role="normal"></page>
+  <book navtitle="Definiciones" format="html" processing-role="normal">
+    <page href="../contents/BLBHTML/provincias.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/nacionalidades.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/parentescos.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/estados_civiles.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/documentos_de_identidad.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/escolaridades.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/reparticiones.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/lugares_de_Trabajo.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/convenios_de_trabajo.htm" format="html" processing-role="normal"></page>
+    <book navtitle="SIJP" format="html" processing-role="normal">
+      <page href="../contents/BLBHTML/situaciones_de_revista.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/BLBHTML/condiciones_laborales.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/BLBHTML/modalidades_de_contratacion.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/BLBHTML/actividades.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/BLBHTML/zonas_geograficas.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/BLBHTML/incapacidades.htm" format="html" processing-role="normal"></page>
+    </book>
+    <book navtitle="Atributos" format="html" processing-role="normal">
+      <page href="../contents/BLBHTML/atributos_de_legajos.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/BLBHTML/atributos_de_personas.htm" format="html" processing-role="normal"></page>
+    </book>
+  </book>
+</book>
+<book navtitle="Conceptos, Variables y Acumuladores" format="html" processing-role="normal">
+  <page href="../contents/BLBHTML/conceptos_de_liquidacion.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/variables_definibles.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/acumuladores_definibles.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/generador_de_formula.htm" format="html" processing-role="normal"></page>
+  <book navtitle="Definiciones" format="html" processing-role="normal">
+    <page href="../contents/BLBHTML/tipos_de_Liquidacion.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/billetes_y_monedas.htm" format="html" processing-role="normal"></page>
+  </book>
+</book>
+<book navtitle="Personal" format="html" processing-role="normal">
+  <page navtitle="Visor de Alertas" href="../contents/BLBHTML/visor_de_Alertas1.htm" format="html" processing-role="normal"></page>
+  <book navtitle="Suceso" format="html" processing-role="normal">
+    <page href="../contents/BLBHTML/clases_de_Sucesos.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/sucesos.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/documentos_de_texto.htm" format="html" processing-role="normal"></page>
+  </book>
+</book>
+<book navtitle="Sueldos y jornales" format="html" processing-role="normal">
+  <page href="../contents/BLBHTML/apertura_de_liquidacion.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/liquidaciones.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/administracion_de_recibos.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/emision_de_recibos.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/anulacion_de_liquidacion.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/cierre_de_liquidacion.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/cierre_de_simulacion.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/calculo_de_Vacaciones.htm" format="html" processing-role="normal"></page>
+  <book navtitle="Informes" format="html" processing-role="normal">
+    <page href="../contents/BLBHTML/conceptos_liquidados.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/planilla_de_pago.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/informe_de_Remuneraciones.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/resumen_contable.htm" format="html" processing-role="normal"></page>
+    <page navtitle="Generación archivo para SICOSS" href="../contents/BLBHTML/generacion_archivo_para_DGI-SIJP.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/exportacion_de_datos.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/informacion_sobre_legajos.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/certificacion_de_servicios.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/evolucion_de_datos_registrables.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/informe_de_recibos_de_Autogestion.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/impresion_de_recibos_en_bloque.htm" format="html" processing-role="normal"></page>
+    <book navtitle="Libro de sueldos y jornales" format="html" processing-role="normal">
+      <page href="../contents/BLBHTML/emision_del_libro.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/BLBHTML/titulos_para_rubricacion.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/BLBHTML/emision_del_Libro_del_Personal_Eventual.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/BLBHTML/exportacion_Libro_de_sueldos_digital.htm" format="html" processing-role="normal"></page>
+    </book>
+  </book>
+  <book navtitle="Consultas" format="html" processing-role="normal">
+    <page href="../contents/BLBHTML/consulta_de_liquidaciones.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/consulta_por_Legajos.htm" format="html" processing-role="normal"></page>
+  </book>
+</book>
+<book navtitle="Ganancias" format="html" processing-role="normal">
+  <page href="../contents/BLBHTML/anexos_para_ganancias.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/variables_para_ganancias.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/grupos.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/novedades_para_variables_de_ganancias.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/importacion_de_SIRADIG.htm" format="html" processing-role="normal"></page>
+  <book navtitle="Informes" format="html" processing-role="normal">
+    <page navtitle="Visor de 4ta categoría" href="../contents/BLBHTML/visor_de_4ta_categoria.htm" format="html" processing-role="normal"></page>
+    <page navtitle="Visor de 4ta categoría anual" href="../contents/BLBHTML/visor_de_4ta_categoria_anual.htm" format="html" processing-role="normal"></page>
+    <page navtitle="Planilla para Ganancias" href="../contents/BLBHTML/generacion_de_planilla_649.htm" format="html" processing-role="normal"></page>
+  </book>
+</book>
+<book navtitle="Recursos Humanos" format="html" processing-role="normal">
+  <page href="../contents/BLBHTML/organigrama.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/consulta_de_personas.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/habilidades.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/documentos.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/proveedores.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/esquema_del_Plan.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/visor_de_alertas_en_RRHH.htm" format="html" processing-role="normal"></page>
+  <book navtitle="Capacitaciones" format="html" processing-role="normal">
+    <page href="../contents/BLBHTML/capacitacion.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/plan.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/atributos_de_Capacitacion.htm" format="html" processing-role="normal"></page>
+  </book>
+  <book navtitle="Evaluaciones" format="html" processing-role="normal">
+    <page href="../contents/BLBHTML/escalas.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/factores.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/formularios.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/evaluacion.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/plan_EVA.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/impresion_EVA.htm" format="html" processing-role="normal"></page>
+  </book>
+  <book navtitle="Elementos de trabajo" format="html" processing-role="normal">
+    <page href="../contents/BLBHTML/elementos_de_trabajo.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/atributos_de_elementos_de_trabajo.htm" format="html" processing-role="normal"></page>
+  </book>
+  <book navtitle="Novedades" format="html" processing-role="normal">
+    <page navtitle="Admnistración de Novedades (RR HH)" href="../contents/BLBHTML/adm_novedades_RH.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/novedades_de_Capacitacion.htm" format="html" processing-role="normal"></page>
+    <page navtitle="Novedades de Documentos" href="../contents/BLBHTML/novedades_de_documentos.htm" format="html" processing-role="normal"></page>
+    <page navtitle="Novedades de Evaluación" href="../contents/BLBHTML/novedades_de_evaluacion.htm" format="html" processing-role="normal"></page>
+    <page navtitle="Novedades de Elementos de Trabajo" href="../contents/BLBHTML/novedades_de_elementos_de_trabajo.htm" format="html" processing-role="normal"></page>
+    <page navtitle="Novedades de Elementos de Trabajo por Persona" href="../contents/BLBHTML/novedades_de_elementos_de_trabajo_por_persona.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/novedades_de_Excepcion.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/novedades_de_Cancelacion.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/importacion_de_evaluaciones.htm" format="html" processing-role="normal"></page>
+  </book>
+  <book navtitle="Informes" format="html" processing-role="normal">
+    <page href="../contents/BLBHTML/informe_de_vencimientos.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/informes_de_capacitaciones.htm" format="html" processing-role="normal"></page>
+    <page navtitle="Informes de evaluación" href="../contents/BLBHTML/informes_de_evaluacion.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/informe_de_habilidades.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/informe_de_perfiles_de_puesto.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/informes_de_planes_de_capacitacion.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/informes_de_planes_de_evaluacion.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/resumen_de_evaluaciones.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/informe_de_Tenencias_de_elementos_de_trabajo.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/historial_de_elementos_de_trabajo.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/informe_de_elementos_de_trabajo__ART_.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/impresion_de_Organigrama.htm" format="html" processing-role="normal"></page>
+  </book>
+</book>
+<book navtitle="Parámetros generales" format="html" processing-role="normal">
+  <page href="../contents/BLBHTML/cuentas.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/centros_de_apropiacion.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/formatos_de_importacion.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/formatos_de_exportacion.htm" format="html" processing-role="normal"></page>
+  <page navtitle="Empresas de Personal Eventual" href="../contents/BLBHTML/empresas_de_Personal_Eventual.htm" format="html" processing-role="normal"></page>
+</book>
+<book navtitle="Configuración" format="html" processing-role="normal">
+  <page href="../contents/BLBHTML/parametros_del_sistema.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/empresas.htm" format="html" processing-role="normal"></page>
+  <page navtitle="Configurador visor de 4ta categoría" href="../contents/BLBHTML/configurador_visor_de_4ta_categoria.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/configurador_Transferencia_electronica_1357.htm" format="html" processing-role="normal"></page>
+  <page navtitle="Configurador transferencia electronica F 1359" href="../contents/BLBHTML/configurador_transferencia_electronica__F_1359.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/configurador_de_SIRADIG.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/configurador_de_alertas.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/integracion_con_BAS_Company_Steering.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/autonumeracion.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/feriados.htm" format="html" processing-role="normal"></page>
+  <book navtitle="Seguridad" format="html" processing-role="normal">
+    <page href="../contents/BLBHTML/grupos_de_usuarios.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/usuarios.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/permisos_por_programa.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/BLBHTML/permisos_Denegados.htm" format="html" processing-role="normal"></page>
+  </book>
+  <book navtitle="Auditoría" format="html" processing-role="normal">
+    <page navtitle="Consulta de Auditoria" href="../contents/BLBHTML/auditoria.htm" format="html" processing-role="normal"></page>
+  </book>
+</book>
+<book navtitle="Ocultos" format="html" processing-role="resource-only">
+  <page href="../contents/BLBHTML/esquema_Plan_evaluaciones.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/ficha_Legajos.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/filtro_Admin_Novedades_Liq.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/filtro_Admin_Novedades_Pers.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/importacion_de_archivos.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/modificacion_de_novedades.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/planilla_para_ganancias.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/reconstruir_Historicos.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/tarea.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/ver.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/visor_de_alertas.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/vistas_de_legajos.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/acumulados_a_Diciembre.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/cambio_de_Clave_de_Acceso.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/campos_de_combinacion.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/configuracion_de_menu.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/datos_Historicos.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/depurador_de_formulas.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/destino.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/BLBHTML/eliminacion.htm" format="html" processing-role="normal"></page>
+</book>
+</map>

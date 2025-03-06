@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <section name="MasterPage">
+    <element name="MT_HideString" value="Ocultar"></element>
+    <element name="MT_ShowString" value="Mostrar"></element>
+  </section>
+  <section name="PrintedDoc">
+    <element name="TitlePageFileName" value="Capítulo__Página_Título.doc"></element>
+    <element name="GlossaryDefinitionStyleName" value="Definición de glosario"></element>
+    <element name="TitlePage" value="Página de título"></element>
+    <element name="TitlePageTitleStyleName" value="Título de la página de título"></element>
+    <element name="TocPageTitleStyleName" value="Título de la página Contenido"></element>
+    <element name="CrossReferencePrefix" value="Consulte"></element>
+    <element name="ChapterFileNamePrefix" value="Capítulo_"></element>
+    <element name="GlossaryTermStyleName" value="Término de glosario"></element>
+    <element name="GlossaryHeadingStyleName" value="Encabezado de glosario"></element>
+    <element name="TableOfContents" value="Contenido"></element>
+  </section>
+  <section name="GlossaryTab">
+    <element name="TabCaption" value="&amp;Glosario"></element>
+    <element name="DefinitionCaption" value="&amp;Definición de:"></element>
+    <element name="TermCaption" value="&amp;Término"></element>
+  </section>
+  <section name="ResponsiveHelp">
+    <element name="Reset" value="Restablecer"></element>
+    <element name="SearchResultsPerScreen" value="Resultados de búsqueda por página"></element>
+    <element name="HomeButton" value="Inicio"></element>
+    <element name="Welcome_header" value="Bienvenido a nuestro Centro de ayuda"></element>
+    <element name="ApplyTip" value="Aplicar"></element>
+    <element name="HighlightSearchResults" value="Resaltar resultados de búsqueda"></element>
+    <element name="GlossaryFilterTerms" value="Encontrar término"></element>
+    <element name="Welcome_text" value="¿En qué le podemos ayudar hoy?"></element>
+    <element name="EnableAndSearch" value="Mostrar resultados que incluyan todas las palabras de búsqueda"></element>
+    <element name="ShowAll" value="Mostrar todo"></element>
+    <element name="Print" value="Imprimir"></element>
+    <element name="NoScriptErrorMsg" value="Active la compatibilidad con JavaScript en el explorador para ver esta página."></element>
+    <element name="Next" value="Siguiente"></element>
+    <element name="PreviousLabel" value="Anterior"></element>
+    <element name="ShowHide" value="Mostrar/Ocultar"></element>
+    <element name="Canceled" value="Cancelado"></element>
+    <element name="Search" value="-Búsqueda-"></element>
+    <element name="favoritesLabel" value="Favoritos"></element>
+    <element name="EndOfResults" value="Fin de resultados de búsqueda."></element>
+    <element name="Loading" value="Cargando..."></element>
+    <element name="SidebarToggleTip" value="Expandir/colapsar"></element>
+    <element name="ContentFilterChanged" value="Se ha cambiado el filtro de contenido, vuelva a buscar"></element>
+    <element name="Logo" value="Logotipo"></element>
+    <element name="JS_alert_LoadXmlFailed" value="No se pudo cargar el archivo XML"></element>
+    <element name="favoritesNameLabel" value="Nombre"></element>
+    <element name="Copyright" value="© Copyright 2017. Todos los derechos reservados."></element>
+    <element name="SearchTitle" value="Buscar"></element>
+    <element name="Searching" value="Buscando..."></element>
+    <element name="nofavoritesFound" value="No ha marcado ninguna página como favorita."></element>
+    <element name="unsetAsFavorite" value="Quitar de favoritos"></element>
+    <element name="Cancel" value="Cancelar"></element>
+    <element name="JS_alert_InitDatabaseFailed" value="No se pudo inicializar la base de datos"></element>
+    <element name="FilterIntro" value="Seleccione filtro(s):"></element>
+    <element name="ResultsFoundText" value="%1 resultado(s) encontrado(s) para %2"></element>
+    <element name="UnknownError" value="Error desconocido"></element>
+    <element name="setAsFavorite" value="Establecer como favorito"></element>
+    <element name="setAsFavorites" value="Añadir a favoritos"></element>
+    <element name="TopicsNotFound" value="No se encontraron resultados"></element>
+    <element name="SearchPageTitle" value="Resultados de búsqueda"></element>
+    <element name="SearchButtonTitle" value="Buscar"></element>
+    <element name="Filter" value="Filtrar"></element>
+    <element name="HideAll" value="Ocultar todo"></element>
+    <element name="TableOfContents" value="Tabla de contenido"></element>
+    <element name="NextLabel" value="Siguiente"></element>
+    <element name="Back" value="Atrás"></element>
+    <element name="SearchOptions" value="Opciones de búsqueda"></element>
+    <element name="ShowTopicInContext" value="Haga clic aquí para ver esta página en contexto"></element>
+    <element name="FavoriteBoxTitle" value="Favoritos"></element>
+    <element name="ToTopTip" value="Ir al principio"></element>
+    <element name="NavTip" value="Menú"></element>
+    <element name="IeCompatibilityErrorMsg" value="Esta página no se puede ver en Internet Explorer 8 o versiones anteriores."></element>
+    <element name="IndexFilterKewords" value="Encontrar palabra clave"></element>
+    <element name="Prev" value="Anterior"></element>
+    <element name="JS_alert_InvalidExpression_1" value="La cadena de búsqueda que ha escrito no es válida"></element>
+  </section>
+  <section name="BrowseSequence">
+    <element name="NextCaption" value="Siguiente"></element>
+    <element name="BlockTooltip" value="Seleccionar examinar secuencias"></element>
+    <element name="NextTooltip" value="Tema Siguiente"></element>
+    <element name="PreTooltip" value="Tema Previo"></element>
+    <element name="PreCaption" value="Anterior"></element>
+  </section>
+  <section name="Common">
+    <element name="SyncToc" value="SyncToc"></element>
+    <element name="Show" value="Mostrar"></element>
+    <element name="Next" value="&gt;&gt;"></element>
+    <element name="Hide" value="Ocultar"></element>
+    <element name="Search" value="Búsqueda"></element>
+    <element name="Contents" value="Contenido"></element>
+    <element name="Logo/Author" value="Desarrollado por"></element>
+    <element name="Disabled Next" value="&gt;&gt;"></element>
+    <element name="Seperate" value="|"></element>
+    <element name="Index" value="Índice"></element>
+    <element name="Glossary" value="Glosario"></element>
+    <element name="Disabled Prev" value="&lt;&lt;"></element>
+    <element name="OpenLinkInNewTab" value="Abrir en nueva ficha"></element>
+    <element name="Prev" value="&lt;&lt;"></element>
+  </section>
+  <section name="WebHelp">
+    <element name="Reset" value="Restablecer"></element>
+    <element name="SearchResultsPerScreen" value="Resultados de búsqueda por página"></element>
+    <element name="HomeButton" value="Inicio"></element>
+    <element name="Welcome_header" value="Bienvenido a nuestro Centro de ayuda"></element>
+    <element name="ApplyTip" value="Aplicar"></element>
+    <element name="HighlightSearchResults" value="Resaltar resultados de búsqueda"></element>
+    <element name="GlossaryFilterTerms" value="Encontrar término"></element>
+    <element name="Welcome_text" value="¿En qué le podemos ayudar hoy?"></element>
+    <element name="EnableAndSearch" value="Mostrar resultados que incluyan todas las palabras de búsqueda"></element>
+    <element name="ShowAll" value="Mostrar todo"></element>
+    <element name="Print" value="Imprimir"></element>
+    <element name="NoScriptErrorMsg" value="Active la compatibilidad con JavaScript en el explorador para ver esta página."></element>
+    <element name="Next" value="Siguiente"></element>
+    <element name="PreviousLabel" value="Anterior"></element>
+    <element name="ShowHide" value="Mostrar/Ocultar"></element>
+    <element name="Canceled" value="Cancelado"></element>
+    <element name="Search" value="-Búsqueda-"></element>
+    <element name="favoritesLabel" value="Favoritos"></element>
+    <element name="EndOfResults" value="Fin de resultados de búsqueda."></element>
+    <element name="Loading" value="Cargando..."></element>
+    <element name="SidebarToggleTip" value="Expandir/colapsar"></element>
+    <element name="ContentFilterChanged" value="Se ha cambiado el filtro de contenido, vuelva a buscar"></element>
+    <element name="Logo" value="Logotipo"></element>
+    <element name="JS_alert_LoadXmlFailed" value="No se pudo cargar el archivo XML"></element>
+    <element name="favoritesNameLabel" value="Nombre"></element>
+    <element name="Copyright" value="© Copyright 2017. Todos los derechos reservados."></element>
+    <element name="SearchTitle" value="Buscar"></element>
+    <element name="Searching" value="Buscando..."></element>
+    <element name="nofavoritesFound" value="No ha marcado ninguna página como favorita."></element>
+    <element name="unsetAsFavorite" value="Quitar de favoritos"></element>
+    <element name="Cancel" value="Cancelar"></element>
+    <element name="JS_alert_InitDatabaseFailed" value="No se pudo inicializar la base de datos"></element>
+    <element name="FilterIntro" value="Seleccione filtro(s):"></element>
+    <element name="ResultsFoundText" value="%1 resultado(s) encontrado(s) para %2"></element>
+    <element name="UnknownError" value="Error desconocido"></element>
+    <element name="setAsFavorite" value="Establecer como favorito"></element>
+    <element name="setAsFavorites" value="Añadir a favoritos"></element>
+    <element name="TopicsNotFound" value="No se encontraron resultados"></element>
+    <element name="SearchPageTitle" value="Resultados de búsqueda"></element>
+    <element name="SearchButtonTitle" value="Buscar"></element>
+    <element name="Filter" value="Filtrar"></element>
+    <element name="HideAll" value="Ocultar todo"></element>
+    <element name="TableOfContents" value="Tabla de contenido"></element>
+    <element name="NextLabel" value="Siguiente"></element>
+    <element name="Back" value="Atrás"></element>
+    <element name="SearchOptions" value="Opciones de búsqueda"></element>
+    <element name="ShowTopicInContext" value="Haga clic aquí para ver esta página en contexto"></element>
+    <element name="FavoriteBoxTitle" value="Favoritos"></element>
+    <element name="ToTopTip" value="Ir al principio"></element>
+    <element name="NavTip" value="Menú"></element>
+    <element name="IeCompatibilityErrorMsg" value="Esta página no se puede ver en Internet Explorer 8 o versiones anteriores."></element>
+    <element name="IndexFilterKewords" value="Encontrar palabra clave"></element>
+    <element name="Prev" value="Anterior"></element>
+    <element name="JS_alert_InvalidExpression_1" value="La cadena de búsqueda que ha escrito no es válida"></element>
+  </section>
+</configuration>

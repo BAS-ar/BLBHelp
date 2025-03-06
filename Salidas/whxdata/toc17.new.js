@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"Tipos de Liquidación","type":"item","tilePath":"","description":"","url":"BLBHTML/tipos_de_Liquidacion.htm"},{"name":"Billetes y monedas","type":"item","tilePath":"","description":"","url":"BLBHTML/billetes_y_monedas.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

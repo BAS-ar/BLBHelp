@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="BASLABORO Versión 3.5.0 19/04/16" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="BLBHTML\bienvenidos.htm">
+    
+    <topic>
+      BLBHTML\bienvenidos.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\campos_obligatorios.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\definir_seguridad.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\abrir.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\cambio_de_empresa.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\personalizar.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\mis_Reportes.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\acerca_de.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\administrador_de_Novedades.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\administrador_de_Solicitud_de_Novedades.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\modificacion_de_vacaciones.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\de_liquidacion_por_legajo.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\de_liquidacion_por_concepto.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\de_liquidacion_por_Convenio.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\de_licencias_y_vacaciones.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\de_suspension_por_legajo.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\de_suspension_por_concepto.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\importacion_desde_reloj.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\de_personal_por_legajo.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\de_personal_por_suceso.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\de_Personal_Eventual.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\de_notificaciones.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\de_rotacion_de_personal.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\valores_iniciales_de_acumuladores.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\carga_de_valores_historicos.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\inf__de_novedades_de_liquidacion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\inf__de_novedades_de_personal.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\de_Vacaciones.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\inf__de_notificaciones.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\analisis_de_topes_de_licencia.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\legajos.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\personas.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\familiares.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\personal_Eventual.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\provincias.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\nacionalidades.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\parentescos.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\estados_civiles.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\documentos_de_identidad.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\escolaridades.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\reparticiones.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\lugares_de_Trabajo.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\convenios_de_trabajo.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\situaciones_de_revista.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\condiciones_laborales.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\modalidades_de_contratacion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\actividades.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\zonas_geograficas.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\incapacidades.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\atributos_de_legajos.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\atributos_de_personas.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\conceptos_de_liquidacion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\variables_definibles.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\acumuladores_definibles.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\generador_de_formula.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\tipos_de_Liquidacion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\billetes_y_monedas.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\visor_de_Alertas1.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\clases_de_Sucesos.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\sucesos.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\documentos_de_texto.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\apertura_de_liquidacion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\liquidaciones.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\administracion_de_recibos.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\emision_de_recibos.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\anulacion_de_liquidacion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\cierre_de_liquidacion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\cierre_de_simulacion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\calculo_de_Vacaciones.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\conceptos_liquidados.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\planilla_de_pago.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\informe_de_Remuneraciones.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\resumen_contable.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\generacion_archivo_para_DGI-SIJP.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\exportacion_de_datos.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\informacion_sobre_legajos.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\certificacion_de_servicios.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\evolucion_de_datos_registrables.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\informe_de_recibos_de_Autogestion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\impresion_de_recibos_en_bloque.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\emision_del_libro.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\titulos_para_rubricacion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\emision_del_Libro_del_Personal_Eventual.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\exportacion_Libro_de_sueldos_digital.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\consulta_de_liquidaciones.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\consulta_por_Legajos.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\anexos_para_ganancias.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\variables_para_ganancias.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\grupos.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\novedades_para_variables_de_ganancias.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\importacion_de_SIRADIG.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\visor_de_4ta_categoria.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\visor_de_4ta_categoria_anual.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\generacion_de_planilla_649.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\organigrama.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\consulta_de_personas.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\habilidades.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\documentos.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\proveedores.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\esquema_del_Plan.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\visor_de_alertas_en_RRHH.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\capacitacion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\plan.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\atributos_de_Capacitacion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\escalas.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\factores.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\formularios.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\evaluacion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\plan_EVA.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\impresion_EVA.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\elementos_de_trabajo.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\atributos_de_elementos_de_trabajo.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\adm_novedades_RH.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\novedades_de_Capacitacion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\novedades_de_documentos.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\novedades_de_evaluacion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\novedades_de_elementos_de_trabajo.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\novedades_de_elementos_de_trabajo_por_persona.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\novedades_de_Excepcion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\novedades_de_Cancelacion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\importacion_de_evaluaciones.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\informe_de_vencimientos.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\informes_de_capacitaciones.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\informes_de_evaluacion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\informe_de_habilidades.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\informe_de_perfiles_de_puesto.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\informes_de_planes_de_capacitacion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\informes_de_planes_de_evaluacion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\resumen_de_evaluaciones.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\informe_de_Tenencias_de_elementos_de_trabajo.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\historial_de_elementos_de_trabajo.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\informe_de_elementos_de_trabajo__ART_.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\impresion_de_Organigrama.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\cuentas.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\centros_de_apropiacion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\formatos_de_importacion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\formatos_de_exportacion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\empresas_de_Personal_Eventual.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\parametros_del_sistema.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\empresas.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\configurador_visor_de_4ta_categoria.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\configurador_Transferencia_electronica_1357.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\configurador_transferencia_electronica__F_1359.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\configurador_de_SIRADIG.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\configurador_de_alertas.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\integracion_con_BAS_Company_Steering.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\autonumeracion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\feriados.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\grupos_de_usuarios.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\usuarios.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\permisos_por_programa.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\permisos_Denegados.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\auditoria.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\esquema_Plan_evaluaciones.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\ficha_Legajos.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\filtro_Admin_Novedades_Liq.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\filtro_Admin_Novedades_Pers.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\importacion_de_archivos.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\modificacion_de_novedades.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\planilla_para_ganancias.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\reconstruir_Historicos.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\tarea.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\ver.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\visor_de_alertas.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\vistas_de_legajos.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\acumulados_a_Diciembre.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\cambio_de_Clave_de_Acceso.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\campos_de_combinacion.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\configuracion_de_menu.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\datos_Historicos.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\depurador_de_formulas.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\destino.htm
+    </topic>
+    
+    <topic>
+      BLBHTML\eliminacion.htm
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        es_ES
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.htm
+      </filename>
+    </filenameentry>
+        
+    <filenameentry moniker="favicon">
+      <filename>
+        C:/Productos LEN RH2022/BAS_LABORO/Proyecto/contents/assets/images/LOGO_BLB1.png
+      </filename>
+    </filenameentry>
+    
+  </filenamemap>
+</ppfml>
