@@ -1,5 +1,20 @@
 {
   "recent-files::internal:document": [{
+    "title": "campos_obligatorios",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/campos_obligatorios.htm",
+    "pinned": false,
+    "time": "Mar 7, 9:23 AM"
+  }, {
+    "title": "bienvenidos",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/bienvenidos.htm",
+    "pinned": false,
+    "time": "Mar 7, 9:22 AM"
+  }, {
+    "title": "BLHELP",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/toc/BLHELP.toc",
+    "pinned": false,
+    "time": "Mar 7, 9:22 AM"
+  }, {
     "title": "exportacion_Libro_de_sueldos_digital",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyecto/contents/BLBHTML/exportacion_Libro_de_sueldos_digital.htm",
     "pinned": false,
@@ -109,21 +124,6 @@
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyecto/contents/BLBHTML/liquidaciones.htm",
     "pinned": false,
     "time": "Dec 2, 4:05 PM"
-  }, {
-    "title": "Apertura_de_liquidacion",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyecto/contents/BLBHTML/apertura_de_liquidacion.htm",
-    "pinned": false,
-    "time": "Dec 2, 4:03 PM"
-  }, {
-    "title": "BLHELP",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyecto/toc/BLHELP.toc",
-    "pinned": false,
-    "time": "Dec 2, 3:39 PM"
-  }, {
-    "title": "Personas",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyecto/contents/BLBHTML/personas.htm",
-    "pinned": false,
-    "time": "Nov 29, 12:31 PM"
   }],
   "recent-files::internal:image": [{
     "title": "Transferencia1359",
@@ -187,6 +187,12 @@
       "exists": true,
       "path": "C:/Productos LEN RH2022/BAS_LABORO/Salidas/index.htm",
       "time": "2025-01-16T16:57:37-03:00",
+      "logFile": "C:/Users/admin/AppData/Local/Temp/RHTMP/Responsive HTML5.ehtml"
+    },
+    "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/publish/presets/Responsive HTML5.preset": {
+      "exists": true,
+      "path": "C:/Productos LEN RH2022/BAS_LABORO/Salidas/index.htm",
+      "time": "2025-03-07T09:24:26-03:00",
       "logFile": "C:/Users/admin/AppData/Local/Temp/RHTMP/Responsive HTML5.ehtml"
     }
   },

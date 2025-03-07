@@ -1,1 +1,1 @@
-rh._.exports({"0":[[" ","Bienvenidos"]],"1":[["Welcome"]],"3":[[" ","Versión: 4.0.0 (FX055)"," ","Vigencia: 16/01/25"]],"id":"4"})
+rh._.exports({"0":[[" ","Informe de recibos de Autogestión"]],"1":[[" ","Informe de recibos de Autogestión"]],"2":[[" ","El informe muestra, para \n las fechas y legajos que se soliciten, la información correspondiente \n a la actividad de los empleados en BAS Laboro Autogestión correspondiente \n a la gestión de recibos."," ","Completada la información y filtros que se solicitan \n se emite el informe correspondiente."]],"id":"4"})
