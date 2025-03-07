@@ -1,0 +1,79 @@
+# Workflow de Integracion continua 
+#
+name: Workflow - Integracion continua - Help BASLaboro
+
+run-name: ${{ github.actor }} activo el workflow de Integracion continua
+
+permissions: write-all
+
+on: 
+  workflow_call:
+
+jobs:
+
+  integracion-continua:
+    
+    runs-on: ubuntu-latest
+
+    steps:       
+      - name: Obtener fuentes de Github
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0    
+          
+      - name: Copy files to FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: bas.com.ar
+          username: uploadcontent
+          password: ${{ secrets.password }}
+          local-dir: ./Salidas/
+          server-dir: /BASCS/
+          port: 2112
+          protocol: ftps
+
+      - name: enviar correo 
+        if: failure() || cancelled()
+        uses: dawidd6/action-send-mail@v3
+        with:
+         connection_url: smtp://proyectosbas:${{ secrets.emailpassword }}@mail.bas.com.ar:25
+         server_address: mail.bas.com.ar
+         server_port: 25 
+         secure: false
+
+         from: GitHub <proyectosbas@bas.com.ar>
+         to: capacitacion@bas.com.ar
+         subject: Error en la actualización en el FTP del help de BASLaboro
+         body: |
+            Se ha producido un error en la actualización en el FTP del help de BASLaboro.
+           
+            Commit: ${{github.sha}}
+            Autor: ${{github.actor}}
+            Mensaje: ${{github.event.head_commit.message}}
+
+         ignore_cert: true
+         nodemailerlog: true
+         nodemailerdebug: true          
+
+      - name: enviar correo 
+        if: success()
+        uses: dawidd6/action-send-mail@v3
+        with:
+         connection_url: smtp://proyectosbas:${{ secrets.emailpassword }}@mail.bas.com.ar:25
+         server_address: mail.bas.com.ar
+         server_port: 25 
+         secure: false
+
+         from: GitHub <proyectosbas@bas.com.ar>
+         to: capacitacion@bas.com.ar
+         subject: Actualización en el FTP del help de BASLaboro
+         body: |
+            Se ha actualizado exitosamente en el FTP el help de BASLaboro.
+           
+            Commit: ${{github.sha}}
+            Autor: ${{github.actor}}
+            Mensaje: ${{github.event.head_commit.message}}
+
+         ignore_cert: true
+         nodemailerlog: true
+         nodemailerdebug: true   
