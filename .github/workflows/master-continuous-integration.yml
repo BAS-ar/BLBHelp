@@ -28,7 +28,7 @@ jobs:
           username: uploadcontent
           password: ${{ secrets.password }}
           local-dir: ./Salidas/
-          server-dir: /BASCS/
+          server-dir: /BASLaboro/
           port: 2112
           protocol: ftps
 
