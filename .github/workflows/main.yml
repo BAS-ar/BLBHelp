@@ -1,0 +1,20 @@
+# Workflow general de Integracion continua + Entrega continua
+name: Main pipeline Help BASLaboro
+
+run-name: ${{ github.actor }} activo el workflow de Integracion continua y Entrega continua
+
+permissions: write-all
+
+on:
+  push:
+    branches: [ "main" ]
+    paths: 
+      - 'Salidas/**'
+  workflow_dispatch:
+
+
+jobs:
+  integracion-continua:
+
+    uses: BAS-ar/BLBHelp/.github/workflows/master-continuous-integration.yml@main
+    secrets: inherit
