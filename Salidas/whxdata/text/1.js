@@ -1,1 +1,1 @@
-rh._.exports({"0":[[" ","Bienvenidos"]],"2":[[" ","Versión: 4.0.0 (FX055)"," ","Vigencia: 16/01/25"]],"3":[["Welcome"]],"id":"1"})
+rh._.exports({"0":[[" ","Mis_Reportes"]],"1":[[" ","Mis Reportes"]],"2":[[" ","Permite visualizar los Reportes Personalizados generados por el usuario para poder ser utilizados según corresponda."]],"3":[["Mis_Reportes"]],"id":"1"})
