@@ -1,14 +1,24 @@
 {
   "recent-files::internal:document": [{
+    "title": "exportacion_Libro_de_sueldos_digital",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/exportacion_Libro_de_sueldos_digital.htm",
+    "pinned": false,
+    "time": "Apr 17, 10:20 AM"
+  }, {
+    "title": "generacion_de_planilla_649",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/generacion_de_planilla_649.htm",
+    "pinned": false,
+    "time": "Apr 17, 10:15 AM"
+  }, {
     "title": "bienvenidos",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/bienvenidos.htm",
     "pinned": false,
-    "time": "Mar 31, 4:30 PM"
+    "time": "Apr 17, 10:15 AM"
   }, {
     "title": "BLHELP",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/toc/BLHELP.toc",
     "pinned": false,
-    "time": "Mar 31, 4:30 PM"
+    "time": "Apr 15, 4:54 PM"
   }, {
     "title": "acerca_de",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/acerca_de.htm",
@@ -114,16 +124,6 @@
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyecto/contents/BLBHTML/zonas_geograficas.htm",
     "pinned": false,
     "time": "Jan 16, 4:05 PM"
-  }, {
-    "title": "Generacion_de_planilla_649",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyecto/contents/BLBHTML/generacion_de_planilla_649.htm",
-    "pinned": false,
-    "time": "Jan 16, 4:04 PM"
-  }, {
-    "title": "anexos_para_ganancias",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyecto/contents/BLBHTML/anexos_para_ganancias.htm",
-    "pinned": false,
-    "time": "Jan 16, 4:02 PM"
   }],
   "recent-files::internal:image": [{
     "title": "Transferencia1359",
@@ -192,7 +192,7 @@
     "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/publish/presets/Responsive HTML5.preset": {
       "exists": true,
       "path": "C:/Productos LEN RH2022/BAS_LABORO/Salidas/index.htm",
-      "time": "2025-03-31T16:31:33-03:00",
+      "time": "2025-04-17T10:22:07-03:00",
       "logFile": "C:/Users/admin/AppData/Local/Temp/RHTMP/Responsive HTML5.ehtml"
     }
   },
