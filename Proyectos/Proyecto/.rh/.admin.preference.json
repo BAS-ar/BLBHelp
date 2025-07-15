@@ -1,5 +1,40 @@
 {
   "recent-files::internal:document": [{
+    "title": "bienvenidos",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/bienvenidos.htm",
+    "pinned": false,
+    "time": "Jul 15, 11:32 AM"
+  }, {
+    "title": "importacion_de_SIRADIG",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/importacion_de_SIRADIG.htm",
+    "pinned": false,
+    "time": "Jul 15, 11:31 AM"
+  }, {
+    "title": "parametros_del_sistema",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/parametros_del_sistema.htm",
+    "pinned": false,
+    "time": "Jul 15, 11:27 AM"
+  }, {
+    "title": "conceptos_liquidados",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/conceptos_liquidados.htm",
+    "pinned": false,
+    "time": "Jul 15, 11:19 AM"
+  }, {
+    "title": "modificacion_de_vacaciones",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/modificacion_de_vacaciones.htm",
+    "pinned": false,
+    "time": "Jul 15, 11:16 AM"
+  }, {
+    "title": "consulta_por_Legajos",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/consulta_por_Legajos.htm",
+    "pinned": false,
+    "time": "Jul 15, 11:13 AM"
+  }, {
+    "title": "emision_del_libro",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/emision_del_libro.htm",
+    "pinned": false,
+    "time": "Jul 15, 9:30 AM"
+  }, {
     "title": "exportacion_Libro_de_sueldos_digital",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/exportacion_Libro_de_sueldos_digital.htm",
     "pinned": false,
@@ -7,11 +42,6 @@
   }, {
     "title": "generacion_de_planilla_649",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/generacion_de_planilla_649.htm",
-    "pinned": false,
-    "time": "Apr 17, 10:15 AM"
-  }, {
-    "title": "bienvenidos",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/bienvenidos.htm",
     "pinned": false,
     "time": "Apr 17, 10:15 AM"
   }, {
@@ -94,36 +124,6 @@
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyecto/contents/BLBHTML/bienvenidos.htm",
     "pinned": false,
     "time": "Jan 16, 4:11 PM"
-  }, {
-    "title": "Legajos",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyecto/contents/BLBHTML/legajos.htm",
-    "pinned": false,
-    "time": "Jan 16, 4:10 PM"
-  }, {
-    "title": "convenios_de_trabajo",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyecto/contents/BLBHTML/convenios_de_trabajo.htm",
-    "pinned": false,
-    "time": "Jan 16, 4:09 PM"
-  }, {
-    "title": "Generacion_archivo_para_DGI-SIJP",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyecto/contents/BLBHTML/generacion_archivo_para_DGI-SIJP.htm",
-    "pinned": false,
-    "time": "Jan 16, 4:08 PM"
-  }, {
-    "title": "importacion_de_SIRADIG",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyecto/contents/BLBHTML/importacion_de_SIRADIG.htm",
-    "pinned": false,
-    "time": "Jan 16, 4:07 PM"
-  }, {
-    "title": "planilla_para_ganancias",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyecto/contents/BLBHTML/planilla_para_ganancias.htm",
-    "pinned": false,
-    "time": "Jan 16, 4:06 PM"
-  }, {
-    "title": "zonas_geograficas",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyecto/contents/BLBHTML/zonas_geograficas.htm",
-    "pinned": false,
-    "time": "Jan 16, 4:05 PM"
   }],
   "recent-files::internal:image": [{
     "title": "Transferencia1359",
@@ -192,7 +192,7 @@
     "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/publish/presets/Responsive HTML5.preset": {
       "exists": true,
       "path": "C:/Productos LEN RH2022/BAS_LABORO/Salidas/index.htm",
-      "time": "2025-04-17T10:22:07-03:00",
+      "time": "2025-07-15T11:33:50-03:00",
       "logFile": "C:/Users/admin/AppData/Local/Temp/RHTMP/Responsive HTML5.ehtml"
     }
   },
