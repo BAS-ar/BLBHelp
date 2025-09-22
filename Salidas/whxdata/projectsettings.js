@@ -7,7 +7,7 @@ rh._.exports(defaultTopic);
 rh.consts('DEFAULT_TOPIC', encodeURI("BLBHTML/bienvenidos.htm"));
 rh.consts('HOME_FILEPATH', encodeURI('index.htm'));
 rh.consts('START_FILEPATH', encodeURI('index.htm'));
-rh.consts('HELP_ID', '8e2b1b30-65e2-424d-9de8-af2a18d0f1bf' || 'preview');
+rh.consts('HELP_ID', '1b542326-0f11-4d2b-9ca1-8ee8a3371f3a' || 'preview');
 rh.consts('LNG_SUBSTR_SEARCH', 0);
 
 model.publish(rh.consts('KEY_LNG_NAME'), "es");
