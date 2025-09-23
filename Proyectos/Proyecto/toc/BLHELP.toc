@@ -208,7 +208,7 @@
   <page href="../contents/BLBHTML/empresas.htm" format="html" processing-role="normal"></page>
   <page navtitle="Configurador visor de 4ta categoría" href="../contents/BLBHTML/configurador_visor_de_4ta_categoria.htm" format="html" processing-role="normal"></page>
   <page navtitle="Configurador transferencia electronica F 1359 1.0" href="../contents/BLBHTML/configurador_transferencia_electronica__F_1359.htm" format="html" processing-role="normal"></page>
-  <page navtitle="Configurador transferencia electrónica F 1359 2.0" href="../contents/BLBHTML/configurador_transferencia_electronica_f_1359v2.htm" format="html" processing-role="normal"></page>
+  <page navtitle="Configurador transferencia electrónica F 1359 2.0" href="../contents/BLBHTML/configurador_transferencia_electronica__F_1359_2.htm" format="html" processing-role="normal"></page>
   <page href="../contents/BLBHTML/configurador_de_SIRADIG.htm" format="html" processing-role="normal"></page>
   <page href="../contents/BLBHTML/configurador_de_alertas.htm" format="html" processing-role="normal"></page>
   <page href="../contents/BLBHTML/integracion_con_BAS_Company_Steering.htm" format="html" processing-role="normal"></page>
