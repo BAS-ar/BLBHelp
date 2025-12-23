@@ -23,7 +23,8 @@
 </book>
 <book navtitle="Novedades" format="html" processing-role="normal">
   <page href="../contents/BLBHTML/administrador_de_Novedades.htm" format="html" processing-role="normal"></page>
-  <page href="../contents/BLBHTML/administrador_de_Solicitud_de_Novedades.htm" format="html" processing-role="normal"></page>
+  <page navtitle="Administrar Solicitud de licencias (Autogestión)" href="../contents/BLBHTML/administrador_de_Solicitud_de_Novedades.htm" format="html" processing-role="normal"></page>
+  <page navtitle="Administración publicaciones de notificaciones" href="../contents/BLBHTML/publicaciones_notificaciones.html" format="html" processing-role="normal"></page>
   <page href="../contents/BLBHTML/modificacion_de_vacaciones.htm" format="html" processing-role="normal"></page>
   <book navtitle="De Liquidación" format="html" processing-role="normal">
     <page href="../contents/BLBHTML/de_liquidacion_por_legajo.htm" format="html" processing-role="normal"></page>
@@ -38,7 +39,7 @@
     <page href="../contents/BLBHTML/de_personal_por_legajo.htm" format="html" processing-role="normal"></page>
     <page href="../contents/BLBHTML/de_personal_por_suceso.htm" format="html" processing-role="normal"></page>
     <page href="../contents/BLBHTML/de_Personal_Eventual.htm" format="html" processing-role="normal"></page>
-    <page href="../contents/BLBHTML/de_notificaciones.htm" format="html" processing-role="normal"></page>
+    <page navtitle="De evidencias" href="../contents/BLBHTML/de_notificaciones.htm" format="html" processing-role="normal"></page>
     <page href="../contents/BLBHTML/de_rotacion_de_personal.htm" format="html" processing-role="normal"></page>
   </book>
   <book navtitle="Históricos" format="html" processing-role="normal">
@@ -46,10 +47,10 @@
     <page navtitle="Carga de valores registrables" href="../contents/BLBHTML/carga_de_valores_historicos.htm" format="html" processing-role="normal"></page>
   </book>
   <book navtitle="Informes" format="html" processing-role="normal">
-    <page href="../contents/BLBHTML/inf__de_novedades_de_liquidacion.htm" format="html" processing-role="normal"></page>
-    <page href="../contents/BLBHTML/inf__de_novedades_de_personal.htm" format="html" processing-role="normal"></page>
+    <page navtitle="Novedades De liquidación" href="../contents/BLBHTML/inf__de_novedades_de_liquidacion.htm" format="html" processing-role="normal"></page>
+    <page navtitle="Novedades De personal" href="../contents/BLBHTML/inf__de_novedades_de_personal.htm" format="html" processing-role="normal"></page>
     <page href="../contents/BLBHTML/de_Vacaciones.htm" format="html" processing-role="normal"></page>
-    <page href="../contents/BLBHTML/inf__de_notificaciones.htm" format="html" processing-role="normal"></page>
+    <page navtitle="De evidencias" href="../contents/BLBHTML/inf__de_notificaciones.htm" format="html" processing-role="normal"></page>
     <page href="../contents/BLBHTML/analisis_de_topes_de_licencia.htm" format="html" processing-role="normal"></page>
   </book>
 </book>

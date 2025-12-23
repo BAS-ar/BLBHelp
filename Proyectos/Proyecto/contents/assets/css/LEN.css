@@ -74,6 +74,8 @@ P.H_Texto {
   text-align: justify;
   font-family: Calibri;
   font-size: 1rem;
+  text-decoration: none;
+  font-weight: normal;
 }
 P.H_Item_con_imagen_negrita {
   margin-top: 3.00pt;
@@ -564,5 +566,11 @@ body {
 p.imagen_producto {
   font-family: Calibri;
   font-size: 1rem;
+  margin-left: 35px;
+  width: 80%;
+}
+p.imagen producto S {}
+p.imagen {
+  width: 60%;
   margin-left: 35px;
 }

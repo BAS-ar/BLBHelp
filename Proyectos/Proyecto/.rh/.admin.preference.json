@@ -1,14 +1,54 @@
 {
   "recent-files::internal:document": [{
-    "title": "BLHELP",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/toc/BLHELP.toc",
-    "pinned": false,
-    "time": "Sep 23, 12:28 PM"
-  }, {
     "title": "bienvenidos",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/bienvenidos.htm",
     "pinned": false,
-    "time": "Sep 22, 3:20 PM"
+    "time": "Dec 23, 4:33 PM"
+  }, {
+    "title": "BLHELP",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/toc/BLHELP.toc",
+    "pinned": false,
+    "time": "Dec 23, 4:33 PM"
+  }, {
+    "title": "clases_de_Sucesos",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/clases_de_Sucesos.htm",
+    "pinned": false,
+    "time": "Dec 23, 4:26 PM"
+  }, {
+    "title": "sucesos",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/sucesos.htm",
+    "pinned": false,
+    "time": "Dec 23, 4:23 PM"
+  }, {
+    "title": "inf__de_notificaciones",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/inf__de_notificaciones.htm",
+    "pinned": false,
+    "time": "Dec 23, 4:04 PM"
+  }, {
+    "title": "administracion_de_publicaciones_de_notificaciones",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/publicaciones_notificaciones.html",
+    "pinned": false,
+    "time": "Dec 23, 4:00 PM"
+  }, {
+    "title": "administrador_de_Solicitud_de_Novedades",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/administrador_de_Solicitud_de_Novedades.htm",
+    "pinned": false,
+    "time": "Dec 23, 3:40 PM"
+  }, {
+    "title": "de_notificaciones",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/de_notificaciones.htm",
+    "pinned": false,
+    "time": "Dec 23, 2:29 PM"
+  }, {
+    "title": "Topic References",
+    "path": "Topic References.report",
+    "pinned": false,
+    "time": "Dec 23, 2:28 PM"
+  }, {
+    "title": "LEN",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/assets/css/LEN.css",
+    "pinned": false,
+    "time": "Dec 23, 11:30 AM"
   }, {
     "title": "configurador_transferencia_electrónica_f_1359v2",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/configurador_transferencia_electronica__F_1359_2.htm",
@@ -84,48 +124,28 @@
     "path": "Glossary.report",
     "pinned": false,
     "time": "Mar 13, 10:23 AM"
-  }, {
-    "title": "Unreferenced Topics",
-    "path": "Unreferenced Topics.report",
-    "pinned": false,
-    "time": "Mar 13, 10:23 AM"
-  }, {
-    "title": "Unused Files",
-    "path": "Unused Files.report",
-    "pinned": false,
-    "time": "Mar 13, 10:23 AM"
-  }, {
-    "title": "External References",
-    "path": "External References.report",
-    "pinned": false,
-    "time": "Mar 13, 10:23 AM"
-  }, {
-    "title": "Topic References",
-    "path": "Topic References.report",
-    "pinned": false,
-    "time": "Mar 13, 10:22 AM"
-  }, {
-    "title": "Topic Properties",
-    "path": "Topic Properties.report",
-    "pinned": false,
-    "time": "Mar 13, 10:22 AM"
-  }, {
-    "title": "Topic List",
-    "path": "Topic List.report",
-    "pinned": false,
-    "time": "Mar 13, 10:21 AM"
-  }, {
-    "title": "Map ID",
-    "path": "Map ID.report",
-    "pinned": false,
-    "time": "Mar 13, 10:17 AM"
-  }, {
-    "title": "Table of Contents",
-    "path": "Table of Contents.report",
-    "pinned": false,
-    "time": "Mar 13, 10:04 AM"
   }],
   "recent-files::internal:image": [{
+    "title": "notif04",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/assets/images/BLBIMG/notif04.jpg",
+    "pinned": false,
+    "time": "Dec 23, 11:44 AM"
+  }, {
+    "title": "notif01",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/assets/images/BLBIMG/notif01.jpg",
+    "pinned": false,
+    "time": "Dec 23, 11:42 AM"
+  }, {
+    "title": "notif03",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/assets/images/BLBIMG/notif03.jpg",
+    "pinned": false,
+    "time": "Dec 23, 11:40 AM"
+  }, {
+    "title": "notif02",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/assets/images/BLBIMG/notif02.jpg",
+    "pinned": false,
+    "time": "Dec 23, 11:34 AM"
+  }, {
     "title": "1359v2",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/assets/images/BLBIMG/1359v2.JPG",
     "pinned": false,
@@ -197,11 +217,16 @@
     "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/publish/presets/Responsive HTML5.preset": {
       "exists": true,
       "path": "C:/Productos LEN RH2022/BAS_LABORO/Salidas/index.htm",
-      "time": "2025-09-23T12:29:37-03:00",
+      "time": "2025-12-23T16:34:48-03:00",
       "logFile": "C:/Users/admin/AppData/Local/Temp/RHTMP/Responsive HTML5.ehtml"
     }
   },
   "recent-files::internal:hyperlink": [{
+    "title": "administracion_de_publicaciones_de_notificaciones",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/publicaciones_notificaciones.html",
+    "pinned": false,
+    "time": "Dec 23, 11:18 AM"
+  }, {
     "title": "configurador_transferencia_electrónica_f_1359v2",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/configurador_transferencia_electronica__F_1359_2.htm",
     "pinned": false,
@@ -321,11 +346,6 @@
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyecto/contents/BLBHTML/ficha_Legajos.htm",
     "pinned": false,
     "time": "Aug 5, 5:39 PM"
-  }, {
-    "title": "Esquema_Plan_evaluaciones",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyecto/contents/BLBHTML/esquema_Plan_evaluaciones.htm",
-    "pinned": false,
-    "time": "Aug 5, 5:38 PM"
   }],
   "Topic List:column-width": {
     "0": 317
