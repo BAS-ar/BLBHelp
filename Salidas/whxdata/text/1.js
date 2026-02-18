@@ -1,1 +1,1 @@
-rh._.exports({"0":[[" ","Bienvenidos"]],"2":[[" ","Versión 4.0.0 (UP062)"," ","Vigencia 23/12/2025"]],"3":[["Welcome"]],"id":"1"})
+rh._.exports({"0":[[" ","Bienvenidos"]],"2":[[" ","Versión 4.0.0 (UP063)"," ","Vigencia 18/02/26"]],"3":[["Welcome"]],"id":"1"})
