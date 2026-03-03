@@ -1,1 +1,1 @@
-rh._.exports({"0":[[" ","Bienvenidos"]],"2":[[" ","Versión 4.0.0 (UP063)"," ","Vigencia 18/02/26"]],"3":[["Welcome"]],"id":"1"})
+rh._.exports({"0":[[" ","Configurador transferencia electrónica F 1359 2.0"]],"1":[["Configurador transferencia electrónica F. 1359 V2"]],"2":[[" ","Configurador Transferencia Electrónica F 1359 2.0"]],"id":"1"})
