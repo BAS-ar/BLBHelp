@@ -1,14 +1,29 @@
 {
   "recent-files::internal:document": [{
+    "title": "personas",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/personas.htm",
+    "pinned": false,
+    "time": "Mar 26, 9:22 AM"
+  }, {
     "title": "bienvenidos",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/bienvenidos.htm",
     "pinned": false,
-    "time": "Mar 3, 10:03 AM"
+    "time": "Mar 26, 9:22 AM"
+  }, {
+    "title": "conceptos_de_liquidacion",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/conceptos_de_liquidacion.htm",
+    "pinned": false,
+    "time": "Mar 26, 9:13 AM"
+  }, {
+    "title": "legajos",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/legajos.htm",
+    "pinned": false,
+    "time": "Mar 26, 9:10 AM"
   }, {
     "title": "BLHELP",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/toc/BLHELP.toc",
     "pinned": false,
-    "time": "Mar 3, 10:03 AM"
+    "time": "Mar 26, 9:10 AM"
   }, {
     "title": "clases_de_Sucesos",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/clases_de_Sucesos.htm",
@@ -109,21 +124,6 @@
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/acerca_de.htm",
     "pinned": false,
     "time": "Mar 31, 4:29 PM"
-  }, {
-    "title": "Index",
-    "path": "Index.report",
-    "pinned": false,
-    "time": "Mar 13, 10:24 AM"
-  }, {
-    "title": "See Also",
-    "path": "See Also.report",
-    "pinned": false,
-    "time": "Mar 13, 10:23 AM"
-  }, {
-    "title": "Glossary",
-    "path": "Glossary.report",
-    "pinned": false,
-    "time": "Mar 13, 10:23 AM"
   }],
   "recent-files::internal:image": [{
     "title": "notif04",
@@ -217,7 +217,7 @@
     "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/publish/presets/Responsive HTML5.preset": {
       "exists": true,
       "path": "C:/Productos LEN RH2022/BAS_LABORO/Salidas/index.htm",
-      "time": "2026-03-03T10:04:22-03:00",
+      "time": "2026-03-26T09:23:58-03:00",
       "logFile": "C:/Users/admin/AppData/Local/Temp/RHTMP/Responsive HTML5.ehtml"
     }
   },

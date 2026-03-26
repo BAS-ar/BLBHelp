@@ -16,6 +16,8 @@
    Sin retenciones
   Este campo está destinado a los conceptos de Haberes e indica si sobre él se efectuarán, o no, las retenciones que se definan.
   Además los haberes con retenciones y los haberes sin retenciones se exhiben en los recibos en dos columnas diferentes.
+   Mostrar en recibos
+  Solo aplicable para conceptos de Contribuciones. Tildar este campo para incluir el concepto en la emisión del recibo.
    Auxiliar
   Indica que si bien se ha de calcular el importe del concepto, éste no se incluirá en el recibo de sueldo.
   Los conceptos auxiliares están destinados a fórmulas de liquidación complejas donde se deben realizar cálculos parciales intermedios de modo de obtener luego, en otro concepto, el resultado final.
@@ -40,14 +42,18 @@
    Variable
   El contenido de la variable que acá se indique figurará en los recibos en una columna exclusivamente destinada a tal fin.
   Por ejemplo, si se define un concepto Presentismo, y se indica en el campo Variable la variable ppr (porcentaje que se liquida) y, en el campo Unidad, el símbolo "%". El contenido de la variable ppr y el símbolo se exhiben en la cuarta y quinta columnas del recibo.
+  En el caso de los conceptos de contribución que deben incluirse en la emisión de recibos, indicar el nombre de la variable correspondiente al concepto.
   Unidad
   La unidad que se indica en este campo se exhibirá en la columna mencionada en el párrafo anterior a la derecha del contenido de la variable.
+  En el caso de los conceptos de contribución que deben incluirse en la emisión de recibos, indicar el porcentaje correspondiente al concepto.
    Comentarios
   Los campos Variable y Unidad son útiles cuando se desea incluir en el recibo, en relación a los conceptos, porcentajes o cantidades que han intervenido en su cálculo.
   Por ejemplo, en el caso del concepto Presentismo, si éste se calcula como un 8.33% del sueldo bruto, puede indicarse en el campo Variable aquella que almacena el porcentaje 8.33 y, en el campo Unidad, indicar %.
   Observaciones
   Texto que se incluirá en la impresión del recibo ya sea para reemplazar o para agregar a la descripción del concepto.
   Esta observación se ofrece en el ingreso de novedades, como observación por defecto, pudiendo modificarse o directamente sustituirse por el texto que se requiera.
+  En el caso de los conceptos de contribución que deben incluirse en la emisión de recibos, si bien la descripción del concepto se toma del dato “Descripción”, si se desea reemplazarlo por otro, éste se lo debe informar en este campo. Es conveniente completarlo con una descripción abreviada, ya que el espacio previsto para la impresión es limitado.
+  
    Variable requerida
   Este campo está destinado a las tareas de ingreso de novedades, Por concepto y Por legajo.
   En caso que se desee que al informar un concepto en dichas tareas, el sistema exhiba una variable y solicite el valor de la misma, dicha variable debe informarse en este campo.

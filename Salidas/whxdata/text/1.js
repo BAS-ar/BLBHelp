@@ -1,1 +1,1 @@
-rh._.exports({"0":[[" ","Configurador transferencia electrónica F 1359 2.0"]],"1":[["Configurador transferencia electrónica F. 1359 V2"]],"2":[[" ","Configurador Transferencia Electrónica F 1359 2.0"]],"id":"1"})
+rh._.exports({"0":[[" ","Mis_Reportes"]],"1":[["Mis_Reportes"]],"2":[[" ","Permite visualizar los Reportes Personalizados generados por el usuario para poder ser utilizados según corresponda."]],"3":[[" ","Mis Reportes"]],"id":"1"})
