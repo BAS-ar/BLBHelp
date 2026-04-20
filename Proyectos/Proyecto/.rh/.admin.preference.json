@@ -1,12 +1,32 @@
 {
   "recent-files::internal:document": [{
-    "title": "personas",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/personas.htm",
-    "pinned": false,
-    "time": "Mar 26, 9:22 AM"
-  }, {
     "title": "bienvenidos",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/bienvenidos.htm",
+    "pinned": false,
+    "time": "Apr 20, 11:54 AM"
+  }, {
+    "title": "informe_de_recibos_de_Autogestion",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/informe_de_recibos_de_Autogestion.htm",
+    "pinned": false,
+    "time": "Apr 20, 11:47 AM"
+  }, {
+    "title": "configurador_visor_de_4ta_categoria",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/configurador_visor_de_4ta_categoria.htm",
+    "pinned": false,
+    "time": "Apr 20, 11:43 AM"
+  }, {
+    "title": "empresas",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/empresas.htm",
+    "pinned": false,
+    "time": "Apr 20, 11:43 AM"
+  }, {
+    "title": "parametros_del_sistema",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/parametros_del_sistema.htm",
+    "pinned": false,
+    "time": "Apr 20, 11:36 AM"
+  }, {
+    "title": "personas",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/personas.htm",
     "pinned": false,
     "time": "Mar 26, 9:22 AM"
   }, {
@@ -90,11 +110,6 @@
     "pinned": false,
     "time": "Jul 15, 11:31 AM"
   }, {
-    "title": "parametros_del_sistema",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/parametros_del_sistema.htm",
-    "pinned": false,
-    "time": "Jul 15, 11:27 AM"
-  }, {
     "title": "conceptos_liquidados",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/conceptos_liquidados.htm",
     "pinned": false,
@@ -109,21 +124,6 @@
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/consulta_por_Legajos.htm",
     "pinned": false,
     "time": "Jul 15, 11:13 AM"
-  }, {
-    "title": "emision_del_libro",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/emision_del_libro.htm",
-    "pinned": false,
-    "time": "Jul 15, 9:30 AM"
-  }, {
-    "title": "exportacion_Libro_de_sueldos_digital",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/exportacion_Libro_de_sueldos_digital.htm",
-    "pinned": false,
-    "time": "Apr 17, 10:20 AM"
-  }, {
-    "title": "acerca_de",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/acerca_de.htm",
-    "pinned": false,
-    "time": "Mar 31, 4:29 PM"
   }],
   "recent-files::internal:image": [{
     "title": "notif04",
@@ -217,7 +217,7 @@
     "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/publish/presets/Responsive HTML5.preset": {
       "exists": true,
       "path": "C:/Productos LEN RH2022/BAS_LABORO/Salidas/index.htm",
-      "time": "2026-03-26T09:23:58-03:00",
+      "time": "2026-04-20T11:55:30-03:00",
       "logFile": "C:/Users/admin/AppData/Local/Temp/RHTMP/Responsive HTML5.ehtml"
     }
   },
