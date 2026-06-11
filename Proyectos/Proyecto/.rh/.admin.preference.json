@@ -3,7 +3,22 @@
     "title": "bienvenidos",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/bienvenidos.htm",
     "pinned": false,
-    "time": "Apr 20, 11:54 AM"
+    "time": "Jun 11, 5:04 PM"
+  }, {
+    "title": "LEN",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/assets/css/LEN.css",
+    "pinned": false,
+    "time": "Jun 11, 5:03 PM"
+  }, {
+    "title": "administracion_de_recibos",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/administracion_de_recibos.htm",
+    "pinned": false,
+    "time": "Jun 11, 4:22 PM"
+  }, {
+    "title": "personas",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/personas.htm",
+    "pinned": false,
+    "time": "Jun 11, 4:19 PM"
   }, {
     "title": "informe_de_recibos_de_Autogestion",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/informe_de_recibos_de_Autogestion.htm",
@@ -24,11 +39,6 @@
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/parametros_del_sistema.htm",
     "pinned": false,
     "time": "Apr 20, 11:36 AM"
-  }, {
-    "title": "personas",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/personas.htm",
-    "pinned": false,
-    "time": "Mar 26, 9:22 AM"
   }, {
     "title": "conceptos_de_liquidacion",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/conceptos_de_liquidacion.htm",
@@ -80,11 +90,6 @@
     "pinned": false,
     "time": "Dec 23, 2:28 PM"
   }, {
-    "title": "LEN",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/assets/css/LEN.css",
-    "pinned": false,
-    "time": "Dec 23, 11:30 AM"
-  }, {
     "title": "configurador_transferencia_electrónica_f_1359v2",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/configurador_transferencia_electronica__F_1359_2.htm",
     "pinned": false,
@@ -119,13 +124,18 @@
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/modificacion_de_vacaciones.htm",
     "pinned": false,
     "time": "Jul 15, 11:16 AM"
-  }, {
-    "title": "consulta_por_Legajos",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/consulta_por_Legajos.htm",
-    "pinned": false,
-    "time": "Jul 15, 11:13 AM"
   }],
   "recent-files::internal:image": [{
+    "title": "firma digital5",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/assets/images/BLBIMG/firma digital5.jpg",
+    "pinned": false,
+    "time": "Jun 11, 4:57 PM"
+  }, {
+    "title": "firma digital4",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/assets/images/BLBIMG/firma digital4.jpg",
+    "pinned": false,
+    "time": "Jun 11, 4:50 PM"
+  }, {
     "title": "notif04",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/assets/images/BLBIMG/notif04.jpg",
     "pinned": false,
@@ -217,7 +227,7 @@
     "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/publish/presets/Responsive HTML5.preset": {
       "exists": true,
       "path": "C:/Productos LEN RH2022/BAS_LABORO/Salidas/index.htm",
-      "time": "2026-04-20T11:55:30-03:00",
+      "time": "2026-06-11T17:05:39-03:00",
       "logFile": "C:/Users/admin/AppData/Local/Temp/RHTMP/Responsive HTML5.ehtml"
     }
   },
