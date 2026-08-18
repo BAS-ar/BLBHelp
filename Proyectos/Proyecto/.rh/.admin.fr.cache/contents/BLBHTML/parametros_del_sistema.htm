@@ -12,10 +12,12 @@
   Código de un atributo para el cual se deben considerar los valores históricos en relación a la impresión de recibos o certificación de servicios.
   Actualizar
   Este botón permite actualizar la historia del atributo para todos los legajos, con los valores actuales del mismo, considerando desde la primera hasta la última liquidación disponibles en el sistema.
+  
    Variables registrables
   Las Variables registrables son variables destinadas a la impresión de recibos, para que se registren históricamente y puedan ser incluidas en el informe Evolución de datos registrables. Cumplen un rol similar al de los atributos registrables.
   En caso que, por ejemplo, en los encabezados de los recibos se requiera imprimir el sueldo básico o el importe horario, como éstos valores suelen estar sujetos a variaciones a lo largo del tiempo, las variables donde se almacenan se definirán como Variables registrables y, de ese modo, el sistema mantendrá el valor histórico de las mismas. Así, al imprimir recibos correspondientes a períodos anteriores, se incluirán los valores vigentes a la fecha de los mismos y no los valores actuales.
   Es posible declarar hasta 5 variables como variables registrables.
+  Genéricas
    1:
     Variable
   Código de una variable definida por el usuario o predefinida para la cual se requiere registrar valores históricos.
@@ -66,9 +68,19 @@
   Por lo cual, si en la liquidación actual, asume valor cero, la variable toma el valor correspondiente a la liquidación anterior.
    Recalcular
   Este botón permite actualizar la historia de la variable para todos los legajos, con los valores actuales de la misma considerando desde la primera hasta la última liquidación disponibles en el sistema.
+  Recibo
+    Antiguedad
+  Informar las variables de años y meses de antigüedad.
+    Antiguedad reconocida
+  Informar las variables de años y meses de antigüedad reconocida.
+    Sueldo/Jornal
+  Informar la variables de sueldo/jornal correspondiente.
+  En los tres casos se dispone de la posibilidad de tildar"Registrar aunque sea 0" y de "recalcular" los valores.
    Acumuladores registrables (de 1 a 5)
   Los Acumuladores registrables son acumuladores destinados a la impresión de recibos y certificación de servicios que cumplen un rol similar al de los atributos registrables.
   En caso que, por ejemplo, en los sueldos que se imprimen en las certificaciones de servicios, como éstos valores suelen estar sujetos a variaciones a lo largo del tiempo, los acumuladores donde se almacenan se definirán como Acumuladores registrables y, de ese modo, el sistema mantendrá el valor histórico de los mismos. Así, al imprimir certificaciones de servicios correspondientes a los períodos trabajados por el empleado, se incluirán los valores vigentes a cada fecha de los mismos y no los valores actuales.
+  
+  Genericos
   Es posible declarar hasta 5 acumuladores como acumuladores registrables.
    1 a 5:
     Acumulador
@@ -79,6 +91,18 @@
   Por lo cual, si para un determinado período el valor del acumulador es cero, el sistema guarda el dato correspondiente a dicho período.
     Recalcular
   Efectúa, para el acumulador, un recorrido por todas las liquidaciones efectuadas en el sistema y guarda la información histórica correspondiente al mismo.
+  Recibo 1
+  Indicar las variables que correspondan a los siguientes conceptos:
+  Costo sindical
+  Seguridad social
+  Obra social
+  Costo INSSJP
+  Recibo 2
+  Indicar las variables que correspondan a los siguientes conceptos:
+  Costo ART
+  Costo SCVO
+  Otros Neto
+  En todos los casos, se dispone de la posibilidad de tildar"Registrar aunque sea 0" y de "recalcular" los valores.
    Inicialización
   En esta ficha se agrupan una serie de datos. Entre otros se informan el método que se ha de utilizar en la numeración de recibos y la forma en que se han de acreditar las vacaciones.
    Mes de la última liquidación de S.A.C. en el año:
