@@ -1,22 +1,22 @@
 {
   "recent-files::internal:document": [{
+    "title": "bienvenidos",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/bienvenidos.htm",
+    "pinned": false,
+    "time": "Aug 20, 11:38 AM"
+  }, {
+    "title": "parametros_del_sistema",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/parametros_del_sistema.htm",
+    "pinned": false,
+    "time": "Aug 20, 11:35 AM"
+  }, {
     "title": "conceptos_de_liquidacion",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/conceptos_de_liquidacion.htm",
     "pinned": false,
     "time": "Aug 18, 5:46 PM"
   }, {
-    "title": "parametros_del_sistema",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/parametros_del_sistema.htm",
-    "pinned": false,
-    "time": "Aug 18, 5:31 PM"
-  }, {
     "title": "empresas",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/empresas.htm",
-    "pinned": false,
-    "time": "Aug 18, 5:28 PM"
-  }, {
-    "title": "bienvenidos",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/bienvenidos.htm",
     "pinned": false,
     "time": "Aug 18, 5:28 PM"
   }, {
@@ -227,7 +227,7 @@
     "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/publish/presets/Responsive HTML5.preset": {
       "exists": true,
       "path": "C:/Productos LEN RH2022/BAS_LABORO/Salidas/index.htm",
-      "time": "2026-08-18T17:51:14-03:00",
+      "time": "2026-08-20T11:39:32-03:00",
       "logFile": "C:/Users/admin/AppData/Local/Temp/RHTMP/Responsive HTML5.ehtml"
     }
   },
