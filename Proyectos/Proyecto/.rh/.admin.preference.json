@@ -3,12 +3,17 @@
     "title": "bienvenidos",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/bienvenidos.htm",
     "pinned": false,
-    "time": "Aug 20, 11:38 AM"
+    "time": "Oct 8, 2:59 PM"
+  }, {
+    "title": "formatos_de_importacion",
+    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/formatos_de_importacion.htm",
+    "pinned": false,
+    "time": "Oct 8, 2:59 PM"
   }, {
     "title": "parametros_del_sistema",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/parametros_del_sistema.htm",
     "pinned": false,
-    "time": "Aug 20, 11:35 AM"
+    "time": "Oct 8, 2:58 PM"
   }, {
     "title": "conceptos_de_liquidacion",
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/conceptos_de_liquidacion.htm",
@@ -119,11 +124,6 @@
     "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/conceptos_liquidados.htm",
     "pinned": false,
     "time": "Jul 15, 11:19 AM"
-  }, {
-    "title": "modificacion_de_vacaciones",
-    "path": "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/contents/BLBHTML/modificacion_de_vacaciones.htm",
-    "pinned": false,
-    "time": "Jul 15, 11:16 AM"
   }],
   "recent-files::internal:image": [{
     "title": "firma digital5",
@@ -227,7 +227,7 @@
     "C:/Productos LEN RH2022/BAS_LABORO/Proyectos/Proyecto/publish/presets/Responsive HTML5.preset": {
       "exists": true,
       "path": "C:/Productos LEN RH2022/BAS_LABORO/Salidas/index.htm",
-      "time": "2026-08-20T11:39:32-03:00",
+      "time": "2026-10-08T15:03:23-03:00",
       "logFile": "C:/Users/admin/AppData/Local/Temp/RHTMP/Responsive HTML5.ehtml"
     }
   },
